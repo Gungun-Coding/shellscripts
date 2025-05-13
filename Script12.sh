@@ -33,5 +33,3 @@ else
  echo "-n $a : string length is zero"
 fi
 
-
-How are you doing ?
